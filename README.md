@@ -1,1 +1,1 @@
-# sunghas.github.com
+# Think Python 2nd edition
